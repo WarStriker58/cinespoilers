@@ -8,3 +8,9 @@
 
 ## Ejecución de la aplicación
 !['Ejecución de la aplicación'](./docs/O3%20-%20Run.png)
+
+## Creación de la primera aplicación
+!['Creación de la primera aplicación'](./docs/O4%20-%20FirstApp.png)
+
+## Administrador de entidades
+!['Administrador de entidades'](./docs/O5%20-%20Admin.png)
