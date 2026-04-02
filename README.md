@@ -12,5 +12,11 @@
 ## Creación de la primera aplicación
 !['Creación de la primera aplicación'](./docs/O4%20-%20FirstApp.png)
 
+## Administrador de entidades
+!['Administrador de entidades'](./docs/O5%20-%20Admin.png)
+
 ## Administrador de movies
 !['Administrador de movies'](./docs/O6%20-%20AdminMovies.png)
+
+## Front de movies
+!['Front de movies'](./docs/O7%20-%20Front.png)
